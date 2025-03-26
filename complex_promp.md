@@ -1,28 +1,4 @@
-Objectives :
 
-Développer ses compétences au regard des attendus de sa trajectoire/grade/role
-Améliorer sa posture de consultant
-Confirmer que les difficultés de performance rencontrées sur la période Air France ont été comprises et résolues, et confirmer que ces problèmes ne se reproduisent pas dans le nouveau contexte Amadeus PCG.
--  Livrables correspondants aux besoins décrits par le PO/BA
-- Communication adaptée avec son équipe et les interlocuteurs clients
-Poursuivre et maintenir dans la durée le retour à la situation nominale.
-
-Montée en compétence sur les technologies Java (17+) et Quarkus
-Obtenir des notions cloud
-
-
-#FILIÈRE MÉTIER – SOFTWARE ENGINEER GRADE B
-* PROPOSITIONS D'ACTIVITÉS POUR COMPLÉTER LA PRIORITÉ AVEC LE PM
-• Savoir se positionner en tant que garant du respect de la méthodologie et des bonnes pratiques : faire appliquer les normes, s'assurer que les process sont appliqués lors de revue de code, comprendre la dette technique du projet
-• Être en capacité de réaliser des revues de code pour s'assurer de la bonne mise en oeuvre des pratiques de code propre et decl'adéquation du code développé aux besoins métiers
-• Être en capacité d'argumenter ses choix techniques / besoins auprès du client et/ou de l’EM
-• Démontrer la capacité à estimer une tâche réalisée par un membre de l'équipe
-• Savoir chiffrer, tenir un engagement sur ses estimations partagées vis à vis du projet
-• Démontrer de très bonnes notions en éco-conception sur son expertise
-• Savoir accompagner des plus juniors pour utiliser les outils d'IA
-
-
-==
 
 I need to write a very specific document for profesionnal priorities within a backend development project. 
 
@@ -30,7 +6,7 @@ I need to write a very specific document for profesionnal priorities within a ba
 
 * Develop skills in line with the expectations of their career path/grade/role  
 * Improve their consultant posture  
-* Confirm that the performance issues encountered during the Air France period have been understood and resolved, and ensure that these problems do not recur in the new Amadeus PCG context.  
+* Confirm that the performance issues encountered during the period have been understood and resolved, and ensure that these problems do not recur in the new context.  
 
   - Deliverables aligned with the needs described by the PO/BA  
   - Effective communication with their team and client stakeholders  
