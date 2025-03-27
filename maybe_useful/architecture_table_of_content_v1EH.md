@@ -1,8 +1,4 @@
-I would like you to do an enrichment work on a text I wrote.
 
-Here is the text : 
-
-```
 
 **Table of Contents**
 
@@ -75,7 +71,7 @@ Here is the text :
     - 12.2 Building Your Own IT Architecture Portfolio
     - 12.3 Continuous Learning and Professional Development
 
--->
+
 
 ### 1. Introduction to IT Architecture
 
