@@ -15,6 +15,7 @@ Start by asking a list of questions
 5. A specific photo type? Macro, telephoto
 
 
+
 example :
 
 ```
@@ -48,7 +49,8 @@ certain degree, for beginners it’s recommended to stick with the default.
 * Token efficiency
 
 Your prompt is limited effectively to 75 tokens. If you are working with a long prompt try to be efficient with
-words that do not significantly add to your meaning. A typical example is when using an artist as a modifier
+words that do not significantly add to your meaning. A typical 
+example is when using an artist as a modifier
 to get a particular style. Here are a few prompts and their token counts. They all will produce a piece that
 looks like it was created by Vincent Van Gogh with their associated token count
 
@@ -245,6 +247,7 @@ through window, unreal engine 5
 
 ## Art Mediums
 
+
 example : 
 
     Tiny cute goat painter toy, standing character, soft smooth lighting, soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism, pop surrealism, physically based rendering, square image
@@ -411,7 +414,8 @@ detailed faces, Film Noir
 style
 
 
-# Prompts reference examples 
+# Prompts reference 
+examples 
 
 
 Full length oil painting of gorgeous woman as a
@@ -485,14 +489,17 @@ top of it, hyper realistic, 4k
 # 1. Magic Words + Photography 
 
      HDR, Telephoto, Sunset
+    
     Example: Generate a 64K UHD image using a telephoto lens (e.g., Canon EF 70-200mm f/2.8L IS III USM) to capture a stunning sunset in Yosemite National Park.
     Artist Suggestion: Michael Kenna
     Camera Suggestion: Sony α7R IV
      UHD, Wide-angle, Underwater
+    
     Example: Create an underwater scene captured with a wide-angle lens (e.g., Nikon AF-S NIKKOR 16-35mm f/4G ED VR) using a GoPro HERO9 Black.
     Artist Suggestion: Michael Aw
     Camera Suggestion: Olympus OM-D E-M1 Mark III with underwater housing
      Professional, Macro, Bokeh
+    
     Example: Produce a professional macro photo (e.g., Canon MP-E 65mm f/2.8 1-5x Macro Photo) with bokeh effect using a Nikon Z7 II.
     Artist Suggestion: Thomas Shahan
     Camera Suggestion: Fujifilm X-T4
@@ -501,14 +508,17 @@ top of it, hyper realistic, 4k
 2. Magic Words + Art Mediums 
 
      Highly detailed, Oil painting, Impressionism
+    
     Example: Create an impressionistic oil painting (e.g., Claude Monet's "Water Lilies") with highly detailed elements using studio lighting conditions.
     Artist Suggestion: Claude Monet
     Medium Suggestion: Oil paints by Winsor & Newton
      Studio lighting, Watercolors, Surrealism
+    
     Example: Generate a surrealistic watercolor painting (e.g., Salvador Dalí's "The Persistence of Memory") under studio lighting conditions using Daniel Smith watercolors.
     Artist Suggestion: Salvador Dalí
     Medium Suggestion: Arches cold-pressed paper
      Trending on artstation, Chalk, Street art
+    
     Example: Design a trending street art chalk piece (e.g., Shepard Fairey's "Obey") inspired by the artist's iconic style using Pastel de Paris chalk.
     Artist Suggestion: Shepard Fairey
     Medium Suggestion: Asphalt or concrete surface
@@ -517,14 +527,17 @@ top of it, hyper realistic, 4k
 3. Magic Words + Illustration 
 
      High resolution scan, Isometric assets, Steampunk
+    
     Example: Create high-resolution isometric steampunk assets (e.g., a Victorian-era airship) with detailed scans using Blender's Cycles render engine.
     Artist Suggestion: WLOP
     Software Suggestion: Adobe Illustrator CC
      Bokeh, Children's book, Whimsical
+    
     Example: Generate whimsical children's book illustrations (e.g., a story about talking animals) with bokeh effect using Procreate and an iPad Pro.
     Artist Suggestion: Beatrix Potter
     Software Suggestion: Procreate on iPad Pro
      Sketch vs Painting, Vector, Art Nouveau
+    
     Example: Design an art nouveau vector sketch (e.g., Alphonse Mucha's "The Seasons") with intricate details using Adobe Illustrator CC.
     Artist Suggestion: Alphonse Mucha
     Software Suggestion: Adobe Illustrator CC
@@ -533,14 +546,17 @@ top of it, hyper realistic, 4k
 4. Magic Words + Emotions 
 
      Romantic, Vivid colors, Sunrise
+    
     Example: Capture the romantic emotions of a vivid sunrise scene using a Sony α7R IV and processing it in Lightroom to enhance colors.
     Artist Suggestion: Alfred Stieglitz
     Camera Suggestion: Sony α7R IV
      Hopeful, Soft pastel colors, Spring
+    
     Example: Evoke hopefulness through soft pastel colors (e.g., creating a springtime landscape) using watercolors by Daniel Smith and cold-pressed paper.
     Artist Suggestion: Georgia O'Keeffe
     Medium Suggestion: Watercolors by Daniel Smith on Arches cold-pressed paper
      Nostalgic, Sepia tone, Old photograph
+    
     Example: Create a nostalgic old photograph with sepia tones (e.g., a vintage family portrait) using a medium format camera like the Fujifilm GFX10S and processing it in Lightroom.
     Artist Suggestion: Sally Mann
     Camera Suggestion: Fujifilm GFX10S
@@ -549,14 +565,17 @@ top of it, hyper realistic, 4k
 5. Magic Words + Aesthetics 
 
      Glowy, Luminous, Dreamcore
+    
     Example: Generate a glowy dreamcore aesthetic (e.g., a serene forest at night) using a Sony α7R IV and processing it in Lightroom with luminosity masks.
     Artist Suggestion: WLOP
     Camera Suggestion: Sony α7R IV
      Vibrant, Weirdcore, Cyberpunk
+    
     Example: Create a vibrant weirdcore cyberpunk aesthetic (e.g., a neon-lit cityscape) using a Canon EOS 5D Mark IV and processing it in Photoshop with vibrant color grading.
     Artist Suggestion: Simon Stålenhag
     Camera Suggestion: Canon EOS 5D Mark IV
      Historic, Monochrome, Vintage travel poster design
+    
     Example: Design a historic monochrome vintage travel poster (e.g., the Golden Gate Bridge) using Procreate on an iPad Pro and processing it with a vintage filter.
     Artist Suggestion: Ludwig Hohlwein
     Software Suggestion: Procreate on iPad Pro
@@ -565,14 +584,17 @@ top of it, hyper realistic, 4k
 6. Magic Words + Photography & Art Mediums 
 
      Highly detailed, Oil painting, Long exposure
+    
     Example: Create an oil painting (e.g., Rembrandt's "The Night Watch") with highly detailed elements using long exposure photography techniques and a Nikon D850.
     Artist Suggestion: Rembrandt van Rijn
     Camera Suggestion: Nikon D850
      Studio lighting, Pastel colors, Landscape
+    
     Example: Generate a landscape scene (e.g., a serene meadow) in pastel colors under studio lighting conditions using a Sony α7R IV and processing it in Lightroom.
     Artist Suggestion: Georgia O'Keeffe
     Camera Suggestion: Sony α7R IV
      Bokeh, Watercolors, Nature
+    
     Example: Capture the beauty of nature (e.g., a close-up of a flower) with watercolor paints and bokeh effect using an iPhone 12 Pro Max.
     Artist Suggestion: Georgia O'Keeffe
     Camera Suggestion: iPhone 12 Pro Max
@@ -581,14 +603,17 @@ top of it, hyper realistic, 4k
 7. Magic Words + Photography & Illustration 
 
      Professional, Isometric assets, Cityscape
+    
     Example: Design a professional cityscape using isometric assets (e.g., a futuristic metropolis) and illustration techniques with Adobe Photoshop CC.
     Artist Suggestion: Simon Stålenhag
     Software Suggestion: Adobe Photoshop CC
      HDR, Digital art, Pop surrealism
+    
     Example: Create pop surrealistic digital art (e.g., a whimsical creature) with HDR techniques using Procreate on an iPad Pro.
     Artist Suggestion: Mark Ryden
     Software Suggestion: Procreate on iPad Pro
      Trending on artstation, Vector, Street art graffiti
+    
     Example: Design trending street art graffiti vector illustrations (e.g., a vibrant murals) using Adobe Illustrator CC.
     Artist Suggestion: Shepard Fairey
     Software Suggestion: Adobe Illustrator CC
@@ -597,14 +622,17 @@ top of it, hyper realistic, 4k
 8. Magic Words + Photography & Emotions 
 
      Romantic, Soft colors, Couple portrait
+    
     Example: Capture the romantic emotions of a couple portrait with soft colors using a Fujifilm X-T4 and processing it in Lightroom.
     Artist Suggestion: Annie Leibovitz
     Camera Suggestion: Fujifilm X-T4
      Hopeful, Warm lighting, Sunrise over mountains
+    
     Example: Evoke hopefulness through warm lighting and sunrise over mountains photography using a Canon EOS 5D Mark IV and processing it in Lightroom.
     Artist Suggestion: Ansel Adams
     Camera Suggestion: Canon EOS 5D Mark IV
      Nostalgic, Sepia tone, Old family photograph
+    
     Example: Create a nostalgic old family photograph with sepia tones using an iPhone 12 Pro Max and processing it in the Snapseed app.
     Artist Suggestion: Sally Mann
     Camera Suggestion: iPhone 12 Pro Max
@@ -613,14 +641,17 @@ top of it, hyper realistic, 4k
 9. Magic Words + Photography & Aesthetics 
 
      Glowy, Luminous, Northern lights
+    
     Example: Capture the glowy luminous aesthetic of northern lights photography using a Sony α7R IV and processing it in Lightroom with glow effects.
     Artist Suggestion: Michael Kenna
     Camera Suggestion: Sony α7R IV
      Vibrant, Weirdcore, Underwater world
+    
     Example: Generate vibrant weirdcore underwater world scenes (e.g., a surreal seascape) using a GoPro HERO9 Black and processing it in Adobe Photoshop CC.
     Artist Suggestion: Alexey Kljatov
     Camera Suggestion: GoPro HERO9 Black
      Historic, Monochrome, Vintage travel poster design
+    
     Example: Design a historic monochrome vintage travel poster (e.g., the Grand Canyon) using Procreate on an iPad Pro and processing it with a vintage filter.
     Artist Suggestion: Ludwing Hohlwein
     Software Suggestion: Procreate on iPad Pro
@@ -629,14 +660,17 @@ top of it, hyper realistic, 4k
 10. Magic Words + Art Mediums & Illustration 
 
      Highly detailed, Oil painting, Fantasy art character design
+    
     Example: Create an oil painting with highly detailed fantasy art character design elements (e.g., a mythical creature) using studio lighting conditions and processing it in Photoshop.
     Artist Suggestion: Frank Frazetta
     Software Suggestion: Adobe Photoshop CC
      Studio lighting, Digital art, Pop surrealism character design
+    
     Example: Generate pop surrealistic digital art character design (e.g., a whimsical creature) under studio lighting conditions using Procreate on an iPad Pro.
     Artist Suggestion: Mark Ryden
     Software Suggestion: Procreate on iPad Pro
      Bokeh, Isometric assets, Steampunk robot design
+    
     Example: Design steampunk robot isometric assets (e.g., a Victorian-era automaton) with bokeh effect using Blender's Cycles render engine.
     Artist Suggestion: WLOP
     Software Suggestion: Blender
@@ -645,14 +679,17 @@ top of it, hyper realistic, 4k
 11. Magic Words + Art Mediums & Emotions 
 
      Romantic, Pastel colors, Love letter calligraphy
+    
     Example: Evoke romantic emotions through pastel colored love letter calligraphy art using a dip pen and ink on acid-free paper.
     Artist Suggestion: Jessica Hische
     Medium Suggestion: Dip pen and ink on acid-free paper
      Hopeful, Bright colors, Children's book illustrations
+    
     Example: Create hopeful children's book illustrations (e.g., a story about friendship) with bright colors using watercolors by Daniel Smith and cold-pressed paper.
     Artist Suggestion: Beatrix Potter
     Medium Suggestion: Watercolors by Daniel Smith on Arches cold-pressed paper
      Nostalgic, Sepia tone, Old photograph colorization
+    
     Example: Colorize old photographs (e.g., a vintage portrait) using sepia tones with digital painting techniques in Photoshop.
     Artist Suggestion: Carlene Earth
     Software Suggestion: Adobe Photoshop CC
@@ -661,14 +698,17 @@ top of it, hyper realistic, 4k
 12. Magic Words + Art Mediums & Aesthetics 
 
      Glowy, Luminous, Ethereal fantasy creature
+    
     Example: Create an ethereal fantasy creature (e.g., a mythical unicorn) with glowy luminous elements using digital painting techniques in Photoshop.
     Artist Suggestion: Wendy Froud
     Software Suggestion: Adobe Photoshop CC
      Vibrant, Acidwave, Psychedelic art pattern design
+    
     Example: Generate vibrant acidwave psychedelic art pattern designs (e.g., a geometric mandala) with neon colors and abstract patterns using Procreate on an iPad Pro.
     Artist Suggestion: Alex Grey
     Software Suggestion: Procreate on iPad Pro
      Historic, Baroque, Religious art icon design
+    
     Example: Design historic religious art icons (e.g., a saint's portrait) in the baroque aesthetic of that era using oil paints by Winsor & Newton.
     Artist Suggestion: Caravaggio
     Medium Suggestion: Oil paints by Winsor & Newton
@@ -677,14 +717,17 @@ top of it, hyper realistic, 4k
 13. Magic Words + Photography & Art Mediums 
 
      Highly detailed, Oil painting, Nature photography
+    
     Example: Create an oil painting (e.g., a close-up of a flower) with highly detailed nature photography elements using studio lighting conditions and processing it in Photoshop.
     Artist Suggestion: Georgia O'Keeffe
     Software Suggestion: Adobe Photoshop CC
      Studio lighting, Watercolors, Food photography
+    
     Example: Generate watercolor food photography scenes (e.g., a still life of fruits) under studio lighting conditions using Daniel Smith watercolors and cold-pressed paper.
     Artist Suggestion: Caravaggio
     Medium Suggestion: Watercolors by Daniel Smith on Arches cold-pressed paper
      Bokeh, Chalk, Street art typography
+    
     Example: Design street art typography (e.g., a vibrant mural) using chalk and bokeh effect with an iPhone 12 Pro Max.
     Artist Suggestion: Shepard Fairey
     Camera Suggestion: iPhone 12 Pro Max
@@ -693,14 +736,17 @@ top of it, hyper realistic, 4k
 14. Magic Words + Photography & Illustration 
 
      Professional, Isometric assets, Architectural photography
+    
     Example: Create professional architectural photography using isometric assets (e.g., a futuristic skyscraper) with Adobe Photoshop CC.
     Artist Suggestion: Julius Shulman
     Software Suggestion: Adobe Photoshop CC
      HDR, Digital art, Pop surrealism
+    
     Example: Generate pop surrealistic digital art (e.g., a whimsical creature) with HDR techniques using Procreate on an iPad Pro.
     Artist Suggestion: Mark Ryden
     Software Suggestion: Procreate on iPad Pro
      Trending on artstation, Vector, Street art graffiti
+    
     Example: Design trending street art graffiti vector illustrations (e.g., a vibrant murals) using Adobe Illustrator CC.
     Artist Suggestion: Shepard Fairey
     Software Suggestion: Adobe Illustrator CC
@@ -709,14 +755,17 @@ top of it, hyper realistic, 4k
 15. Magic Words + Photography & Emotions 
 
      Romantic, Soft colors, Couple portrait
+    
     Example: Capture the romantic emotions of a couple portrait with soft colors using a Fujifilm X-T4 and processing it in Lightroom.
     Artist Suggestion: Annie Leibovitz
     Camera Suggestion: Fujifilm X-T4
      Hopeful, Warm lighting, Sunrise over mountains
+    
     Example: Evoke hopefulness through warm lighting and sunrise over mountains photography using a Canon EOS 5D Mark IV and processing it in Lightroom.
     Artist Suggestion: Ansel Adams
     Camera Suggestion: Canon EOS 5D Mark IV
      Nostalgic, Sepia tone, Old family photograph
+    
     Example: Create a nostalgic old family photograph with sepia tones using an iPhone 12 Pro Max and processing it in the Snapseed app.
     Artist Suggestion: Sally Mann
     Camera Suggestion: iPhone 12 Pro Max
@@ -737,3 +786,24 @@ Artists:
      Digital Art & Illustration: Mark Ryden, Alex Grey, Simon Stålenhag, WLOP, Jessica Hische, Beatrix Potter
      Street Art: Shepard Fairey
      
+
+**15 Magic Words & Category Combinations with Examples:**
+
+| No. | Keyword Combination (75 tokens max) | Example for Testing | Recommended Artist(s) | Popular Camera |
+|---|---|---|---|---|
+| 1 | HDR, Telephoto, Sunset | Capture a stunning sunset using telephoto lens and HDR technique. | **Ansel Adams** | Canon EOS-1D X Mark III |
+| 2 | UHD, Wide-angle, Underwater | Generate an underwater scene with vibrant colors using wide-angle lens in UHD resolution. | **Marcello Airoldi** | Sony α7R IV |
+| 3 | Professional, Macro, Bokeh | Create a professional macro photo with bokeh effect to capture intricate details of a flower. | **Thomas Shahan** | Nikon D850 |
+| 4 | Highly detailed, Oil painting, Impressionism | Paint an oil canvas in the impressionist style with highly detailed elements, such as trees and leaves. | **Claude Monet** | - |
+| 5 | Studio lighting, Watercolors, Surrealism | Design a surrealistic watercolor painting under studio lighting conditions featuring floating objects. | **René Magritte** | - |
+| 6 | Trending on artstation, Chalk, Street art | Draw a street art piece using chalk that trends on ArtStation, incorporating vibrant colors and patterns. | **Shepard Fairey** | - |
+| 7 | Romantic, Vivid colors, Sunrise | Evoke romantic emotions through vivid colored sunrise photography with soft light filtering through clouds. | **Frederick Edwin Church** | Fujifilm GFX100S |
+| 8 | Hopeful, Soft pastel colors, Spring | Capture the hopeful feeling of spring with soft pastel colors in a photograph of blooming flowers. | **Georgia O'Keeffe** | Olympus OM-D E-M1 Mark III |
+| 9 | Nostalgic, Sepia tone, Old photograph | Restore an old family photograph using sepia tones to evoke nostalgic feelings and preserve historical context. | **Ansel Adams** | Hasselblad 907X Medium Format Mirrorless Camera |
+| 10 | Glowy, Luminous, Dreamcore | Create a dreamcore aesthetic with glowy luminous elements in a digital painting of a mystical forest at night. | **WLOP** | - |
+| 11 | Vibrant, Weirdcore, Cyberpunk | Generate vibrant weirdcore cyberpunk aesthetic in an illustration of a futuristic cityscape with neon lights. | **WLOP** | - |
+| 12 | Historic, Monochrome, Vintage travel poster design | Design a historic monochrome vintage travel poster featuring iconic landmarks using photography techniques. | **Ludwig Hohlwein** | Leica M10-R |
+| 13 | Highly detailed, Oil painting, Wildlife photography | Paint an oil canvas with highly detailed wildlife photography elements, such as birds or big cats in their natural habitat. | **Carl Rungius** | Nikon D500 |
+| 14 | Studio lighting, Watercolors, Still life | Create a watercolor still life scene featuring fruits and vegetables under studio lighting conditions. | **Claude Monet** | - |
+| 15 | Bokeh, Chalk, Street art typography | Design street art typography using chalk with bokeh effect for a creative and eye-catching piece. | **Shepard Fairey** | - |
+

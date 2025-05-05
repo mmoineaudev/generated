@@ -1,4 +1,4 @@
-Keyword Combinations for Stable Diffusion Prompts: 
+# ***Gemma*** : keyword Combinations for Stable Diffusion Prompts: 
 
 1. Cinematic | Cyberpunk | Neon Lights | Eerie vibes - A model in a neon-lit city alleyway, shadows looming in the background. 
 
@@ -19,3 +19,7 @@ Keyword Combinations for Stable Diffusion Prompts:
 9. Vintage | Library | Model with books | Literary vibes - A model posing amongst books in a dusty library. 
 
 10. Ethereal | Cloud-covered mountain | Model with wings | Magical vibes - A model floating amidst clouds with wings. 
+
+
+
+
