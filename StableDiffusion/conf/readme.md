@@ -468,15 +468,8 @@ high detail, perfect
 
 
 
-Kodak portra 4 0 0, wetplate, ﬁsheye, award - winning
-portrait by britt marling, 1 8 8 0 s kitchen, ghost,
-picture frames, shining lamps, dust, smoke, 1 8 8 0 s
-furniture, wallpaper, carpet, books, muted colours,
-wood, fog, plants, ﬂowers
-
 A monster is standing in a dimly lit hallway, terrifying
 visuals, horror elements, dark ambiance.
-
 
 
  quality 3D render neo - cyberpunk very cute half
