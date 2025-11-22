@@ -1,8 +1,18 @@
 * check https://github.com/github/awesome-copilot/tree/main
 * check https://cookbook.openai.com/
 
-Mix from openai cookbook + awesomecopilot java instruction, usin qwen3:14B
+Mix from openai cookbook + awesomecopilot java instruction, 
 
+using qwen3:14B
+```
+temperature	0.6
+top_k	20
+top_p	0.95
+min_p	0
+think	true
+num_thread	20
+num_gpu	40
+```
 # Java Backend Development (Quarkus)  
 ## General Instructions  
 - **Always test every code change** (unit/integration tests, CI validation).  
