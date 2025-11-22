@@ -1,5 +1,5 @@
 * check https://github.com/github/awesome-copilot/tree/main
-
+* check https://cookbook.openai.com/
 
 Mix from openai cookbook + awesomecopilot java instruction, usin qwen3:14B
 
